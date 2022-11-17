@@ -1,0 +1,15 @@
+D:\USER Data\Documents\XO\bin\Debug\net7.0\XO.exe
+D:\USER Data\Documents\XO\bin\Debug\net7.0\XO.deps.json
+D:\USER Data\Documents\XO\bin\Debug\net7.0\XO.runtimeconfig.json
+D:\USER Data\Documents\XO\bin\Debug\net7.0\XO.dll
+D:\USER Data\Documents\XO\bin\Debug\net7.0\XO.pdb
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.csproj.AssemblyReference.cache
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.AssemblyInfoInputs.cache
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.AssemblyInfo.cs
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.csproj.CoreCompileInputs.cache
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.dll
+D:\USER Data\Documents\XO\obj\Debug\net7.0\refint\XO.dll
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.pdb
+D:\USER Data\Documents\XO\obj\Debug\net7.0\XO.genruntimeconfig.cache
+D:\USER Data\Documents\XO\obj\Debug\net7.0\ref\XO.dll
