@@ -19,15 +19,23 @@ Console.WriteLine(Convert.ToString(j));*/
 Console.Write("Name: ");
 string S  = Console.ReadLine();
 
-Console.Write("Age: ");
-int A = Convert.ToInt32(Console.ReadLine());
+/*Console.Write("Age: ");
+int A = Convert.ToInt32(Console.ReadLine());*/
+int A = 10;
+//int *p;
+//p = &A;
+
+//Console.Write(*p);
 
 Console.WriteLine("Name: " + S);
 Console.WriteLine("Age: " + A );
 
-for(int i = A; i <= 20 ; i++){
-    Console.WriteLine(i);
-}
+/*Console.Write("Enter N:");
+int n = Convert.ToInt32(Console.ReadLine());
+
+for(int i = A; i <= n ; i++){
+    Console.WriteLine(A);
+}*/
 
 
 /*using System;
